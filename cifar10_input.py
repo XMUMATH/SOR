@@ -1,6 +1,3 @@
-# Coder: Wenxin Xu
-# Github: https://github.com/wenxinxu/resnet_in_tensorflow
-# ==============================================================================
 import tarfile
 from six.moves import urllib
 import sys
